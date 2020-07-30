@@ -1,4 +1,4 @@
-package io.dv.springboot02;
+package io.dv.springboot02.greeting;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

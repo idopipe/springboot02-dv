@@ -1,4 +1,4 @@
-package io.dv.springboot02;
+package io.dv.springboot02.greeting;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.boot.CommandLineRunner;
